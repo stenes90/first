@@ -70,4 +70,3 @@ function oneTwoThree() {
 
 let countToThree = oneTwoThree();
 console.log(countToThree);
-gyuukg;
